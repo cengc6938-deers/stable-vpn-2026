@@ -46,7 +46,9 @@
 ## 🎁 免费试用入口
 
 👉 点击获取稳定节点：  
-👉 https://www.kuaiyu.cc
+👉 <a href="https://www.kuaiyu.cc" target="_blank">
+    快鱼机场
+    </a>
 八折优惠券：BDlssqbF
 
 ---
