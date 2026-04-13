@@ -1,4 +1,9 @@
 # stable-vpn-2026
+# 免费节点分享
+2026-04-13
+<a href="https://kuaiyu.ccwu.cc/base64.txt" target="_blank">
+    点击复制/打开订阅链接
+</a>
 # 最稳定机场推荐2026（实测高速节点）
 
 本项目整理当前**稳定可用的机场节点方案**，适合 Clash / V2Ray / sing-box 用户。
