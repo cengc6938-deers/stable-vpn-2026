@@ -59,11 +59,9 @@
 
 ## 📱 使用教程
 
-👉 Clash使用教程：  
-https://www.kuaiyu.cc
+👉 <a href="https://kuaiyu.ccwu.cc/" target="_blank">科学上网交流</a>
 
-👉 V2Ray配置方法：  
-https://www.kuaiyu.cc
+
 
 ---
 
