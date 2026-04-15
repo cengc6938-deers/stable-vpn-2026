@@ -1,5 +1,8 @@
 # stable-vpn-2026
 # 免费节点分享
+- 2026-04-15<a href="https://kuaiyu.ccwu.cc/tree/base64-0415.txt" target="_blank">
+    点击复制/打开订阅链接
+</a>
 - 2026-04-14<a href="https://kuaiyu.ccwu.cc/tree/base64-0414.txt" target="_blank">
     点击复制/打开订阅链接
 </a>
