@@ -1,10 +1,9 @@
 # stable-vpn-2026
 
-## 🎁 免费试用入口
-
-👉 点击获取稳定节点：  
+## 🎁 稳定入口
+  
 👉 <a href="https://www.kuaiyu.cc" target="_blank">
-    快鱼机场
+    点击获取稳定节点
     </a>
 八折优惠券：BDlssqbF
 
@@ -12,19 +11,15 @@
 
 # 免费节点分享
 
+- 2026-04-21<a href="https://kuaiyu.ccwu.cc/tree/base64-0421.txt" target="_blank">
+    点击复制/打开订阅链接
+</a>
+
 - 2026-04-16<a href="https://kuaiyu.ccwu.cc/tree/base64-0416.txt" target="_blank">
     点击复制/打开订阅链接
 </a>
 
 - 2026-04-15<a href="https://kuaiyu.ccwu.cc/tree/base64-0415.txt" target="_blank">
-    点击复制/打开订阅链接
-</a>
-
-- 2026-04-14<a href="https://kuaiyu.ccwu.cc/tree/base64-0414.txt" target="_blank">
-    点击复制/打开订阅链接
-</a>
-
-- 2026-04-13<a href="https://kuaiyu.ccwu.cc/tree/base64.txt" target="_blank">
     点击复制/打开订阅链接
 </a>
 
